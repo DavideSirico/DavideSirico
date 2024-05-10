@@ -1,33 +1,21 @@
 
 #### Hi there 
-I'm Davide Sirico, an IT student in Italy.
+I'm Davide Sirico, an IT student living in San Benedetto Po, in Terrons.
 
 #### 🔭 I’m currently working on
-nothing 😩
-#### 🌱 I’m currently learning
-Php and databases (Postgres and MySQL)
+Rifondazione partito fascista italiano
+#### 🌱 I’m currently not learning (im stupid)
 
-#### 📫 How to reach me:	[davide.sirico@gmail.com](davide.sirico@gmail.com)
+#### 📫 How to reach me:	+39 112
 
 #### What do I know
-- Python as a main language
-- C/C++ for CP
-- Java for school projects
-- R for data science
-- HTML5 + CSS3 + JS for web development
-- BootStrap for styling web pages
-- Flask and Express.js for dynamic website
-- Docker + docker-compose + Portainer for virtualization
-- PHP and SQL
-- *Unix systems
-- Nginx for self-hosting
-- A little bit of Swift for iOS and watchOS applications
-- git as a version controll system
+- Nothing (im very stupid)
 
 #### Competitive Programming
-- Placed ** at the OII 2021-2022
-- Placed ** at the OII 2022-2023
-- Placed ** at the OIS 2022-2023
-- TODO
+- Placed last at the OII 2021-2022
+- Placed last at the OII 2022-2023
+- Placed unclassified at the OIS 2022-2023
+
 #### Projects
-- TODO
+- 9/11 attack (successful)
+- presentazione DCL e view per culpo
