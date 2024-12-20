@@ -5,7 +5,7 @@ I'm Davide Sirico, an IT student in Italy.
 #### 🔭 I’m currently working on
 nothing 😩
 #### 🌱 I’m currently learning
-Php and databases (Postgres and MySQL)
+Rust and Go
 
 #### 📫 How to reach me:	[davide.sirico@gmail.com](davide.sirico@gmail.com)
 
