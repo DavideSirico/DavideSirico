@@ -22,7 +22,7 @@ Rust and Go
 - *Unix systems
 - Nginx for self-hosting
 - A little bit of Swift for iOS and watchOS applications
-- git as a version controll system
+- git as a version control system
 
 #### Competitive Programming
 - Placed ** at the OII 2021-2022
